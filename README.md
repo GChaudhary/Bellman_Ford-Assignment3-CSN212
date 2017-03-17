@@ -8,3 +8,6 @@ Chart showing the running time vs input (vertices and edges)
 #### Solution -  
 The graph shown below consists of 4 input test cases and the corresponding running times.
 ![picture](Bellman_running_time.jpg)  
+  
+This is the screenshot of the testcase -  
+![picture](Test_case.JPG)  
